@@ -1,34 +1,73 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>AI Researcher</a> · Computer Vision · Multimodal Safety Intelligence
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DAR Lab (DALAB), Room 555</p>
+    <p>Department of Computer Science</p>
+    <p>Chungbuk National University, Cheongju, South Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### 👋 Hello, I'm **Azimjon Akhtamov**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm an **AI Researcher** and graduate student at **Chungbuk National University (CBNU)**, specializing in:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Computer Vision**
+- **Multimodal Fusion**
+- **PPE Compliance Monitoring**
+- **YOLO-based Detection, Segmentation & Pose Estimation**
+- **Real-Time Industrial Safety Intelligence**
+
+I work with **Prof. Aziz Nasridinov** at **DALAB**, where I develop *lightweight, high-accuracy models* for industrial safety monitoring systems such as glove-wearing detection, helmet compliance, fire detection, fall detection, and multimodal PPE fusion.
+
+My research focuses on building **fast, deployment-ready systems** using YOLOv8/YOLOv11/YOLOv12, hybrid segmentation-pose models, and custom backbones like StarNet and LKALite modules. I also design **real-time multi-camera platforms** (AI-COMS) using Django + React.
+
+---
+
+## 🔬 Research Interests
+
+- Real-time object detection & segmentation  
+- Human pose estimation  
+- YOLO model design & lightweight architecture optimization  
+- Multimodal fusion models for industrial safety  
+- Deepfake detection and multimodal robustness  
+- Practical deployment: TensorRT, multi-stream inference, system engineering  
+
+---
+
+## 📝 About Me
+
+I’m passionate about **building practical, real-world AI systems**—not just models.  
+I enjoy designing full pipelines: from **dataset creation**, to **model optimization**, to **production-level deployment** with dashboards, alerts, and multi-camera streaming.
+
+Outside research, I create educational content for the Uzbek community on **YOLO, Computer Vision, and AI careers**, helping beginners enter the field.
+
+---
+
+## 🌍 Motto
+
+> "**Build AI that works in the real world, not just in benchmarks.**"
+
+---
+
+Feel free to explore my publications, projects, and blog posts.  
+I'm always open to collaborations, new ideas, and advancing real-time AI systems for safer workplaces.
