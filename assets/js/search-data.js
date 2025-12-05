@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "Research areas, current projects, and scientific focus of Azimjon Akhtamov.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/research/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
