@@ -6,12 +6,12 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 
-# children:
-#   - title: bookshelf
-#     permalink: /books/
-#   - title: divider
-#   - title: blog
-#     permalink: /blog/
+children:
+  - title: Conference Proceedings
+    permalink: /books/
+  - title: divider
+  - title: Journal Papers
+    permalink: /blog/
 ---
 
 <!-- _pages/publications.md -->
