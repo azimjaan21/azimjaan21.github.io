@@ -25,8 +25,7 @@ latest_posts:
 ---
 
 I'm an **AI Researcher** and graduate student at **Chungbuk National University (CBNU)**.
-Under the supervision of **Prof. Aziz Nasridinov** at **DALAB**, I work on lightweight and robust AI solutions for industrial safety intelligence, covering PPE monitoring, fall detection, and hazard analysis.
-My research focuses on creating efficient, deployment-ready vision systems and scalable multi-camera safety platforms for real-world industrial environments.
+Under the supervision of **Prof. Aziz Nasridinov** at **DALAB**, I work on lightweight AI solutions for industrial safety, integrating PPE monitoring, fall detection, hazard analysis, and efficient multi-camera vision platforms.
 
 ---
 
