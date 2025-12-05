@@ -6,7 +6,7 @@ subtitle: <a href='#'>AI Researcher</a> · Computer Vision · Object Detection i
 
 profile:
   align: right
-  image: azimjaan.png
+  image: azimjaan.jpg
   image_circular: false
   more_info: false
 
