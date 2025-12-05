@@ -9,29 +9,29 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-journal-papers",
-              title: "Journal Papers",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/journals/";
-              },
-            },{id: "dropdown-books-chapters-and-conference-proceedings",
+  },{id: "dropdown-books-chapters-and-conference-proceedings",
               title: "Books, Chapters and Conference Proceedings",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
               },
+            },{id: "dropdown-journal-papers",
+              title: "Journal Papers",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/journals/";
+              },
             },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
