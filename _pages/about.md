@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>AI Researcher</a> · Computer Vision · Multimodal Safety Intelligence
+subtitle: <a href='#'>AI Researcher</a> · Computer Vision · Object Detection in Smart Manufacturing
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: azimjon.jpg
   image_circular: false
   more_info: >
     <p>DAR Lab (DALAB), Room 555</p>
