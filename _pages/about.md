@@ -6,11 +6,11 @@ subtitle: <a href='#'>AI Researcher</a> · Computer Vision · Object Detection i
 
 profile:
   align: right
-  image: azimjon21.png
+  image: azimjaan.png
   image_circular: false
   more_info: false
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -19,7 +19,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
